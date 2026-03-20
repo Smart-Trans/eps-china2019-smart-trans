@@ -1,0 +1,7 @@
+Vehicle type,government,nonenergy industries,labor and consumers,foreign entities,electricity suppliers,coal suppliers,natural gas and petroleum suppliers,biomass and biofuel suppliers,other energy suppliers
+LDVs,0.06285184,0.006839988,0.930308172,0,0,0,0,0,0
+HDVs,0.364092052,0.5295075,0.106400447,0,0,0,0,0,0
+aircraft,0,1,0,0,0,0,0,0,0
+rail,0,1,0,0,0,0,0,0,0
+ships,0,1,0,0,0,0,0,0,0
+motorbikes,0.011,0,0.989,0,0,0,0,0,0

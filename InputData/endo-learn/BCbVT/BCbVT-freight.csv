@@ -1,0 +1,7 @@
+﻿Battery Capacity (MW*hr/vehicle,battery electric vehicle,natural gas vehicle,gasoline vehicle,diesel vehicle,plugin hybrid vehicle,LPG vehicle,hydrogen vehicle,nonroad vehicle
+LDVs,0.060089 ,0,0,0,0.027870 ,0,0,0.053513 
+HDVs,0.260755 ,0,0,0,0.047132 ,0,0,0.255480 
+aircraft,0,0,0,0,0,0,0,0
+rail,0,0,0,0,0,0,0,0
+ships,0,0,0,0,0,0,0,0
+motorbikes,0.960378 ,0,0,0,0,0,0,0
