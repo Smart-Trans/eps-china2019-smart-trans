@@ -1,26 +1,26 @@
-﻿Unit: dimensionless,Pot Perc Red in Fuel Use
-agriculture and forestry 01T03,0
-coal mining 05,0
-oil and gas extraction 06,0
-other mining and quarrying 07T08,0
-food beverage and tobacco 10T12,0.218
-textiles apparel and leather 13T15,0.218
-wood products 16,0.218
-pulp paper and printing 17T18,0.218
-refined petroleum and coke 19,0.218
-chemicals 20,0.218
-rubber and plastic products 22,0.218
-glass and glass products 231,0.218
-cement and other nonmetallic minerals 239,0.218
-iron and steel 241,0.218
-other metals 242,0.218
-metal products except machinery and vehicles 25,0.218
-computers and electronics 26,0.218
-appliances and electrical equipment 27,0.218
-other machinery 28,0.218
-road vehicles 29,0.218
-nonroad vehicles 30,0.218
-other manufacturing 31T33,0.218
-energy pipelines and gas processing 352T353,0
-water and waste 36T39,0
-construction 41T43,0
+Unit: dimensionless,Perc Fuel Use Reduction
+agriculture and forestry 01T03,0.00000 
+coal mining 05,0.00000 
+oil and gas extraction 06,0.00000 
+other mining and quarrying 07T08,0.00000 
+food beverage and tobacco 10T12,0.00235 
+textiles apparel and leather 13T15,0.04337 
+wood products 16,0.00000 
+pulp paper and printing 17T18,0.00277 
+refined petroleum and coke 19,0.02803 
+chemicals 20,0.01346 
+rubber and plastic products 22,0.00000 
+glass and glass products 231,0.00000 
+cement and other nonmetallic minerals 239,0.00159 
+iron and steel 241,0.14438 
+other metals 242,0.00065 
+metal products except machinery and vehicles 25,0.00000 
+computers and electronics 26,0.00000 
+appliances and electrical equipment 27,0.00000 
+other machinery 28,0.00000 
+road vehicles 29,0.06914 
+nonroad vehicles 30,0.02413 
+other manufacturing 31T33,0.00000 
+energy pipelines and gas processing 352T353,0.00000 
+water and waste 36T39,0.00450 
+construction 41T43,0.00000 
