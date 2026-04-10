@@ -1,7 +1,25 @@
-Fuel Economy (passenger*miles/BTU),battery electric vehicle,natural gas vehicle,gasoline vehicle,diesel vehicle,plugin hybrid vehicle,LPG vehicle,hydrogen vehicle
-LDVs,2.28E-03,7.30E-04,4.73E-04,4.98E-04,5.39E-04,3.40E-04,5.77E-04
-HDVs,4.95E-03,1.59E-03,1.71E-03,1.80E-03,1.99E-03,8.99E-04,1.47E-03
-aircraft,1.42E-03,4.41E-04,4.41E-04,4.41E-04,0,0,1.32E-03
-rail,1.24E-03,4.24E-04,4.24E-04,4.24E-04,0,0,1.27E-03
-ships,3.23E-05,0.00E+00,1.00E-05,1.00E-05,0,0,3.01E-05
-motorbikes,3.54E-03,1.11E-03,1.11E-03,1.11E-03,2.45E-03,8.61E-04,3.33E-03
+﻿Fuel Economy (passenger*miles/BTU),battery electric vehicle,natural gas vehicle,gasoline vehicle,diesel vehicle,plugin hybrid vehicle,LPG vehicle,hydrogen vehicle
+LDVs,2.277E-03,7.301E-04,4.725E-04,4.976E-04,5.393E-04,3.400E-04,5.772E-04
+HDVs,4.954E-03,1.586E-03,1.705E-03,1.796E-03,1.985E-03,8.989E-04,1.465E-03
+aircraft,1.084E-03,3.373E-04,3.373E-04,0.00034 ,0,0,1.012E-03
+rail,1.241E-03,1.980E-03,1.980E-03,1.980E-03,0,0,5.940E-03
+ships,2.956E-03,0.000E+00,0.000E+00,9.198E-04,0,0,2.759E-03
+motorbikes,5.475E-02,1.720E-02,1.720E-02,1.720E-02,3.785E-02,1.333E-02,5.159E-02
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
