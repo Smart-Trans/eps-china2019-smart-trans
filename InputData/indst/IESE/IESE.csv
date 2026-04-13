@@ -1,0 +1,26 @@
+Unit: dimensionless (elasticity),Elasticity
+agriculture and forestry 01T03,0.893
+coal mining 05,0.790
+oil and gas extraction 06,0.890
+other mining and quarrying 07T08,0.220
+food beverage and tobacco 10T12,0.910
+textiles apparel and leather 13T15,2.280
+wood products 16,1.000
+pulp paper and printing 17T18,0.370
+refined petroleum and coke 19,1.040
+chemicals 20,0.125
+rubber and plastic products 22,0.160
+glass and glass products 231,1.280
+cement and other nonmetallic minerals 239,0.630
+iron and steel 241,0.520
+other metals 242,0.480
+metal products except machinery and vehicles 25,0.690
+computers and electronics 26,0.130
+appliances and electrical equipment 27,0.690
+other machinery 28,0.000
+road vehicles 29,0.140
+nonroad vehicles 30,0.140
+other manufacturing 31T33,0.510
+energy pipelines and gas processing 352T353,0.000
+water and waste 36T39,0.000
+construction 41T43,0.000

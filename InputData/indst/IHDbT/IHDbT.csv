@@ -1,0 +1,26 @@
+Unit: dimensionless,Perc Low Temp,Perc Medium and High Temp
+agriculture and forestry 01T03,1.000,0.000
+coal mining 05,0.915,0.085
+oil and gas extraction 06,0.915,0.085
+other mining and quarrying 07T08,0.915,0.085
+food beverage and tobacco 10T12,0.915,0.085
+textiles apparel and leather 13T15,1.000,0.000
+wood products 16,0.980,0.020
+pulp paper and printing 17T18,0.870,0.130
+refined petroleum and coke 19,0.265,0.735
+chemicals 20,0.265,0.735
+rubber and plastic products 22,0.265,0.735
+glass and glass products 231,0.835,0.165
+cement and other nonmetallic minerals 239,0.200,0.800
+iron and steel 241,0.155,0.845
+other metals 242,0.160,0.840
+metal products except machinery and vehicles 25,0.835,0.165
+computers and electronics 26,0.915,0.085
+appliances and electrical equipment 27,0.915,0.085
+other machinery 28,0.915,0.085
+road vehicles 29,0.880,0.120
+nonroad vehicles 30,0.915,0.085
+other manufacturing 31T33,0.835,0.165
+energy pipelines and gas processing 352T353,0.915,0.085
+water and waste 36T39,0.915,0.085
+construction 41T43,1.000,0.000
