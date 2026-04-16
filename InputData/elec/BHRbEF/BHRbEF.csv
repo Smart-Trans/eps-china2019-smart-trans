@@ -1,5 +1,5 @@
 Heat Rate by Electricity Fuel BTU/(MW*hour),preexisting,preexisting nonretiring (not used in U.S. dataset),newly built
-hard coal,9711666.146,0,7500126.178
+hard coal,9711666.146,0,8333473.531
 natural gas nonpeaker,5996194.5,5996194.5,5520400.883
 nuclear,10448000,0,10448000
 hydro,0,0,0
@@ -10,7 +10,7 @@ biomass,4114320.115,0,4114320.115
 geothermal,0,0,0
 petroleum,9711666.146,0,10000000
 natural gas peaker,5996194.5,0,5520400.883
-lignite,9711666.146,0,7500126.178
+lignite,9711666.146,0,8333473.531
 offshore wind,0,0,0
 crude oil,9711666.146,0,9711666.146
 heavy or residual fuel oil,9711666.146,0,9711666.146
