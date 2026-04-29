@@ -486,6 +486,7 @@ PolicyElements = (
   ),
   (("elec ban new power plants","geothermal es"),
     ("Schedule 1",(2022,0),(2060,1)),
+    ("Schedule 4", (2020,1), (2060,1)),
   ),
   (("elec ban new power plants","petroleum es"),
     ("Schedule 1",(2022,0),(2060,1)),
