@@ -18,10 +18,10 @@ FirstYear = "2020" # The first year you wish to include in the output file (cann
 FinalYear = "2060" # The last year you wish to include in the output file (cannot be later than last simulated year)
 OutputScript = "GeneratedContributionTestScript - 145.cmd" # The desired filename of the Vensim command script to be generated
 RunResultsFile = "ContributionTestResults - 145.tsv" # The desired filename for TSV file containing model run results
-OutputVarsFile = "OutputVarsForWedgeDiagram.lst" # The name of the file containing a list of variables to be included in the RunResultsFile
+OutputVarsFile = "145Analysis.lst" # The name of the file containing a list of variables to be included in the RunResultsFile
                                                  # May optionally also be used as a SAVELIST for Vensim (see below)
 
-# Other Settings
+# Other Settings 
 # --------------
 RunName = "MostRecentRun" # The desired name for all runs performed.  Used as the filename for the .vdfx files that Vensim creates
 EnableOrDisableGroups = "Enable" # Should each group be enabled or disabled in turn?
