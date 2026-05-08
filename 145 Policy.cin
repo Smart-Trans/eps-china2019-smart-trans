@@ -1,6 +1,7 @@
 Additional EV Subsidy Percentage[freight,LDVs] = 0.15
 Additional EV Subsidy Percentage[freight,HDVs] = 0.15
 Boolean Ban New Power Plants[hard coal es] = 1
+Boolean Ban New Power Plants[geothermal es] = 1
 Boolean Ban New Power Plants[petroleum es] = 1
 Boolean Ban New Power Plants[lignite es] = 1
 Boolean Ban New Power Plants[crude oil es] = 1
