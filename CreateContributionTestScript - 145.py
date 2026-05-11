@@ -194,7 +194,7 @@ PotentialPolicies = (
 (False,"Electricity Sector Fraction of Potential Additional CCS Achieved[natural gas peaker es]","Carbon Capture and Sequestration - Natural Gas Peaker",[0,1],"Clean Electricity Standard"),
 (True,"Electricity Sector Fraction of Potential Additional CCS Achieved[lignite es]","Carbon Capture and Sequestration - Gangue",[0,1],"Clean Electricity Standard"),
 (False,"Electricity Sector Fraction of Potential Additional CCS Achieved[municipal solid waste es]","Carbon Capture and Sequestration - Municipal Solid Waste",[0,1],"Clean Electricity Standard"),
-(True,"Renewable Portfolio Std Percentage","Clean Electricity Standard",[0,0.39],"Clean Electricity Standard"),
+(True,"Renewable Portfolio Std Percentage","Renewable Energy",[0,0.39],"Renewable Energy"),
 (False,"Percent Change in Electricity Exports","Change Electricity Exports",[-0.5,1],"Electricity Imports and Exports"),
 (False,"Percent Change in Electricity Imports[hard coal es]","Change Electricity Imports - Hard Coal",[-0.5,1],"Electricity Imports and Exports"),
 (False,"Percent Change in Electricity Imports[natural gas nonpeaker es]","Change Electricity Imports - Natural Gas Nonpeaker",[-0.5,1],"Electricity Imports and Exports"),
