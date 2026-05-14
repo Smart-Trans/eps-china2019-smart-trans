@@ -1,11 +1,6 @@
-Output Electricity Generation by Type
-Output Electricity Generation Capacity
-Output Distributed Solar PV Output
-Output Distributed Solar PV Capacity
-Elec Demand Including TnD Losses
-Electricity Fuel Use
+Total Primary Fuel Use
+Electricity Generation by Type Including Distributed Generation
 Total Pollutant Emissions
-Total CO2e Emissions
-Total Primary Energy Use
+Gross Domestic Product
+Gross Domestic Product by ISIC Code
 LULUCF Anthropogenic Pollutant Emissions
-Total CO2e Emissions by Sector
