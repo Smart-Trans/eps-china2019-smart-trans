@@ -9,4 +9,5 @@ Minimum Required ZEV Sales Percentage[freight,HDVs] = 1
 Minimum Required ZEV Sales Percentage[freight,rail] = 1
 Minimum Required ZEV Sales Percentage[freight,ships] = 0.5
 Minimum Required ZEV Sales Percentage[freight,motorbikes] = 1
+
 Policy Implementation Schedule Selector = 4
