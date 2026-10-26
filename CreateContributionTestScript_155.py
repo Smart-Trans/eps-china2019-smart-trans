@@ -16,8 +16,8 @@
 ModelFile = "EPS.mdl" # The name of the Vensim model file (typically with .mdl or .vpmx extension)
 FirstYear = "2020" # The first year you wish to include in the output file (cannot be prior to first simulated year)
 FinalYear = "2060" # The last year you wish to include in the output file (cannot be later than last simulated year)
-OutputScript = "GeneratedContributionTestScript - 145.cmd" # The desired filename of the Vensim command script to be generated
-RunResultsFile = "ContributionTestResults - 145.tsv" # The desired filename for TSV file containing model run results
+OutputScript = "GeneratedContributionTestScript - 155.cmd" # The desired filename of the Vensim command script to be generated
+RunResultsFile = "ContributionTestResults - 155.tsv" # The desired filename for TSV file containing model run results
 OutputVarsFile = "145Analysis.lst" # The name of the file containing a list of variables to be included in the RunResultsFile
                                                  # May optionally also be used as a SAVELIST for Vensim (see below)
 
@@ -158,16 +158,16 @@ PotentialPolicies = (
 (False,"Reduction in E Use Allowed by Component Eff Std[other component,urban residential]","Building Energy Efficiency Standards - Other Components Urban Residential",[0,0.75],"Building Energy Efficiency Standards"),
 (True,"Reduction in E Use Allowed by Component Eff Std[heating,rural residential]","Building Energy Efficiency Standards - Heating Rural Residential",[0,0.413],"Building Energy Efficiency Standards"),
 (True,"Reduction in E Use Allowed by Component Eff Std[cooling and ventilation,rural residential]","Building Energy Efficiency Standards - Cooling and Ventilation Rural Residential",[0,0.463],"Building Energy Efficiency Standards"),
-(True,"Reduction in E Use Allowed by Component Eff Std[envelope,rural residential]","Building Energy Efficiency Standards - Envelope Rural Residential",[0,0.5],"Building Energy Efficiency Standards"),
-(True,"Reduction in E Use Allowed by Component Eff Std[lighting,rural residential]","Building Energy Efficiency Standards - Lighting Rural Residential",[0,0.491],"Building Energy Efficiency Standards"),
-(True,"Reduction in E Use Allowed by Component Eff Std[appliances,rural residential]","Building Energy Efficiency Standards - Appliances Rural Residential",[0,0.128],"Building Energy Efficiency Standards"),
-(False,"Reduction in E Use Allowed by Component Eff Std[other component,rural residential]","Building Energy Efficiency Standards - Other Components Rural Residential",[0,0.75],"Building Energy Efficiency Standards"),
-(True,"Reduction in E Use Allowed by Component Eff Std[heating,commercial]","Building Energy Efficiency Standards - Heating Commercial",[0,0.413],"Building Energy Efficiency Standards"),
-(True,"Reduction in E Use Allowed by Component Eff Std[cooling and ventilation,commercial]","Building Energy Efficiency Standards - Cooling and Ventilation Commercial",[0,0.463],"Building Energy Efficiency Standards"),
-(True,"Reduction in E Use Allowed by Component Eff Std[envelope,commercial]","Building Energy Efficiency Standards - Envelope Commercial",[0,0.563],"Building Energy Efficiency Standards"),
-(True,"Reduction in E Use Allowed by Component Eff Std[lighting,commercial]","Building Energy Efficiency Standards - Lighting Commercial",[0,0.491],"Building Energy Efficiency Standards"),
-(True,"Reduction in E Use Allowed by Component Eff Std[appliances,commercial]","Building Energy Efficiency Standards - Appliances Commercial",[0,0.128],"Building Energy Efficiency Standards"),
-(False,"Reduction in E Use Allowed by Component Eff Std[other component,commercial]","Building Energy Efficiency Standards - Other Components Commercial",[0,0.75],"Building Energy Efficiency Standards"),
+(True,"Reduction in E Use Allowed by Component Eff Std[envelope,rural residential]","Building Energy Efficiency Standards - Envelope Rural Residential",[0,0.5],"Building Energy Efficiency Standards1"),
+(True,"Reduction in E Use Allowed by Component Eff Std[lighting,rural residential]","Building Energy Efficiency Standards - Lighting Rural Residential",[0,0.491],"Building Energy Efficiency Standards1"),
+(True,"Reduction in E Use Allowed by Component Eff Std[appliances,rural residential]","Building Energy Efficiency Standards - Appliances Rural Residential",[0,0.128],"Building Energy Efficiency Standards1"),
+(False,"Reduction in E Use Allowed by Component Eff Std[other component,rural residential]","Building Energy Efficiency Standards - Other Components Rural Residential",[0,0.75],"Building Energy Efficiency Standards1"),
+(True,"Reduction in E Use Allowed by Component Eff Std[heating,commercial]","Building Energy Efficiency Standards - Heating Commercial",[0,0.413],"Building Energy Efficiency Standards1"),
+(True,"Reduction in E Use Allowed by Component Eff Std[cooling and ventilation,commercial]","Building Energy Efficiency Standards - Cooling and Ventilation Commercial",[0,0.463],"Building Energy Efficiency Standards1"),
+(True,"Reduction in E Use Allowed by Component Eff Std[envelope,commercial]","Building Energy Efficiency Standards - Envelope Commercial",[0,0.563],"Building Energy Efficiency Standards1"),
+(True,"Reduction in E Use Allowed by Component Eff Std[lighting,commercial]","Building Energy Efficiency Standards - Lighting Commercial",[0,0.491],"Building Energy Efficiency Standards1"),
+(True,"Reduction in E Use Allowed by Component Eff Std[appliances,commercial]","Building Energy Efficiency Standards - Appliances Commercial",[0,0.128],"Building Energy Efficiency Standards1"),
+(False,"Reduction in E Use Allowed by Component Eff Std[other component,commercial]","Building Energy Efficiency Standards - Other Components Commercial",[0,0.75],"Building Energy Efficiency Standards1"),
 (False,"Boolean Improved Contractor Edu and Training","Contractor Training",[0,1],"Contractor Training"),
 (False,"Min Fraction of Total Elec Demand to be Met by Distributed Solar PV","Distributed Solar Carve-Out",[0,0.1285],"Distributed Solar Promotion"),
 (False,"Perc Subsidy for Distributed Solar PV Capacity","Distributed Solar Subsidy",[0,0.5],"Distributed Solar Promotion"),
